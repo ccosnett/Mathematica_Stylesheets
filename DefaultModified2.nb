@@ -1,0 +1,112 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3689,        104]
+NotebookOptionsPosition[      2624,         82]
+NotebookOutlinePosition[      2981,         97]
+CellTagsIndexPosition[      2938,         94]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[StyleData[StyleDefinitions -> "Default.nb"],ExpressionUUID->"0a6eb9aa-f463-4f78-b682-33bacc9688c9"],
+
+Cell[StyleData["Input"],
+ TaggingRules->{},
+ CellEpilog:>Replace[
+   CurrentValue[
+    EvaluationCell[], {TaggingRules, "LastCursorPosition"}], 
+   Pattern[$CellContext`$i$, 
+     Blank[Integer]] :> (SelectionMove[
+      EvaluationCell[], Before, CellContents]; SelectionMove[
+      EvaluationNotebook[], Next, Character, $CellContext`$i$]; CurrentValue[
+       EvaluationCell[], {TaggingRules, "LastCursorPosition"}] = False)],
+ CellEventActions->{{"MenuCommand", "HandleShiftReturn"} :> (CurrentValue[
+      EvaluationCell[], {TaggingRules, "LastCursorPosition"}] = Replace[
+      Lookup[
+       Developer`CellInformation[
+        EvaluationCell[]], "CursorPosition"], {{
+         Blank[], 
+         Pattern[$CellContext`$i, 
+          Blank[]]} -> $CellContext`$i, Blank[] -> False}]), PassEventsDown -> 
+   True},
+ CellChangeTimes->{
+  3.767869704382765*^9},ExpressionUUID->"3cb5f7e0-84eb-499e-93a7-\
+b7f8f7e83403"],
+
+Cell[StyleData["Section"],
+ FontSize->14,
+ FontColor->RGBColor[
+  0., 0.3333333333333333, 
+   0.],ExpressionUUID->"659d632e-746d-4f82-aa26-5937c0caa63e"],
+
+Cell[StyleData["Title"],
+ FontSize->24,ExpressionUUID->"6eb833f4-72d1-45e6-827b-3287a24d8b26"],
+
+Cell[CellGroupData[{
+
+Cell[StyleData["DisplayFormulaNumbered"],
+ CellFrameMargins->False,
+ CellFrameLabels->{{None, 
+    Cell[
+     TextData[{"", "" ""}]]}, {None, None}},
+ DefaultFormatType->DefaultTextFormatType,
+ TextAlignment->Center,
+ ScriptSizeMultipliers->0.71,
+ ScriptMinSize->7,
+ ScriptLevel->0,
+ SingleLetterItalics->True,
+ SpanMaxSize->Infinity,
+ CounterIncrements->"DisplayFormulaNumbered",
+ MenuSortingValue->1710,
+ FormatTypeAutoConvert->False,
+ FontFamily->"Times",
+ UnderoverscriptBoxOptions->{LimitsPositioning->False},
+ FractionBoxOptions->{
+ AllowScriptLevelChange->
+  False},ExpressionUUID->"176ae9ff-47dd-43f7-a2c5-57728d9bae9a"],
+
+Cell[StyleData[All, "Printout"],
+ ShowSyntaxStyles->
+  True,ExpressionUUID->"bc83f694-893b-47b3-aa67-9a070b3cbfc0"]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{12, Automatic}, {Automatic, 24}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"PrivateStylesheetFormatting.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 104, 0, 56, 49, 0, "StyleData", "StyleDefinitions", "",ExpressionUUID->"0a6eb9aa-f463-4f78-b682-33bacc9688c9"],
+Cell[665, 22, 919, 21, 68, 24, 0, "StyleData", "Input", "All",ExpressionUUID->"3cb5f7e0-84eb-499e-93a7-b7f8f7e83403"],
+Cell[1587, 45, 153, 4, 113, 26, 0, "StyleData", "Section", "All",ExpressionUUID->"659d632e-746d-4f82-aa26-5937c0caa63e"],
+Cell[1743, 51, 94, 1, 101, 24, 0, "StyleData", "Title", "All",ExpressionUUID->"6eb833f4-72d1-45e6-827b-3287a24d8b26"],
+Cell[CellGroupData[{
+Cell[1862, 56, 628, 19, 60, 41, 0, "StyleData", "DisplayFormulaNumbered", "All",ExpressionUUID->"176ae9ff-47dd-43f7-a2c5-57728d9bae9a",
+ CounterIncrements->"DisplayFormulaNumbered",
+ MenuSortingValue->1710],
+Cell[2493, 77, 115, 2, 30, 32, 0, "StyleData", "All", "Printout",ExpressionUUID->"bc83f694-893b-47b3-aa67-9a070b3cbfc0"]
+}, Open  ]]
+}
+]
+*)
+
