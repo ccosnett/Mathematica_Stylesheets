@@ -30,7 +30,7 @@ Preferences -> Global Font Size = 200%
 
 ## inline math 
 
-Preferences > Advanced > Open Option Inspector > Cell Options > New Cell Defaults > DefaultNewInlineCellStyle > "DisplayFormulaNumbered"
+Preferences > Advanced > Open Option Inspector > Cell Options > New Cell Defaults > DefaultNewInlineCellStyle > Edit and replace "{}" with "DisplayFormulaNumbered"
 
 
 ## alternative approach that I don't currently use:
