@@ -21,3 +21,11 @@ Then execute:
 To copy directory path to clipboard execute:
 
     CopyToClipboard[FileNameJoin[{$UserBaseDirectory, "SystemFiles", "FrontEnd", "StyleSheets"}]]
+    
+    
+## font size
+
+Preferences -> Global Font Size = 200%
+
+
+## inline math 
