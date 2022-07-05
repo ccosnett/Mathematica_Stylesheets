@@ -30,7 +30,10 @@ Preferences -> Global Font Size = 200%
 
 ## inline math 
 
+Preferences > Advanced > Open Option Inspector > Cell Options > New Cell Defaults > DefaultNewInlineCellStyle > "DisplayFormulaNumbered"
 
+
+## alternative approach that I don't currently use:
 copy and paste current style in style sheet and then edit into this form:
 
     Cell[StyleData["InlineCell"],
