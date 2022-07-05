@@ -15,7 +15,7 @@ If directory does not exist then run:
 
 Then execute:
 
-    CurrentValue[$FrontEnd, DefaultStyleDefinitions] = "DefaultModified.nb";
+    CurrentValue[$FrontEnd, DefaultStyleDefinitions] = "DefaultModified2.nb";
     
     
 To copy directory path to clipboard execute:
