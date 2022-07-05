@@ -4,6 +4,7 @@ mathematica stylesheet which enables print quality math typesetting.
 ![Screenshot from 2021-05-03 14-23-41](https://user-images.githubusercontent.com/15061801/116881469-33516980-ac1b-11eb-90da-b2a523b8fac3.png)
 
 
+## Installation Instructions
 
 To install put stylesheet in  `FileNameJoin[{$UserBaseDirectory, "SystemFiles", "FrontEnd", "StyleSheets"}];`
 
@@ -43,3 +44,6 @@ copy and paste current style in style sheet and then edit into this form:
      StyleMenuListing->None,
      FontFamily->"Times",
      FontSize->12]
+
+## Path to KeyEventTranslations on mac
+
