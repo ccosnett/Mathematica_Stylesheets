@@ -29,3 +29,14 @@ Preferences -> Global Font Size = 200%
 
 
 ## inline math 
+
+
+copy and paste current style in style sheet and then edit into this form:
+
+    Cell[StyleData["InlineCell"],
+     TextAlignment->Left,
+     LanguageCategory->"Formula",
+     ScriptLevel->1,
+     StyleMenuListing->None,
+     FontFamily->"Times",
+     FontSize->12]
