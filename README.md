@@ -16,3 +16,8 @@ If directory does not exist then run:
 Then execute:
 
     CurrentValue[$FrontEnd, DefaultStyleDefinitions] = "DefaultModified.nb";
+    
+    
+To copy directory path to clipboard execute:
+
+    CopyToClipboard[FileNameJoin[{$UserBaseDirectory, "SystemFiles", "FrontEnd", "StyleSheets"}]]
